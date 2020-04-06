@@ -1,0 +1,14 @@
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\bin\Debug\netstandard2.0\LayoutEx.deps.json
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\bin\Debug\netstandard2.0\LayoutEx.dll
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\bin\Debug\netstandard2.0\ref\LayoutEx.dll
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\bin\Debug\netstandard2.0\LayoutEx.pdb
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\LayoutEx.csprojAssemblyReference.cache
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\LayoutEx.AssemblyInfoInputs.cache
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\LayoutEx.AssemblyInfo.cs
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\LayoutEx.dll
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\ref\LayoutEx.dll
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\LayoutEx.pdb
+C:\Users\santosh\source\repos\LayoutEx\LayoutEx\LayoutEx\obj\Debug\netstandard2.0\CourosalViewPage.xaml.g.cs
